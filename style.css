@@ -1,14 +1,14 @@
-body{
+body {
     background-image: url("https://i.pinimg.com/564x/c9/3b/fa/c93bfaba410d63022a1bbd34483370a9.jpg");
 }
 
-h1{
+h1 {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
     font-size: 4rem;
 }
 
-h2{
+h2 {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
     font-size: 2rem;
@@ -18,7 +18,7 @@ h2{
     width: auto;
 }
 
-#generate{
+#generate {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -30,7 +30,7 @@ h2{
     font-family: 'Cormorant Garamond', serif;
 }
 
-#bow{
+#bow {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -39,7 +39,7 @@ h2{
 
 }
 
-#imgCont{
+#imgCont {
     width: 400px;
     height: auto;
     text-align: center;
@@ -47,7 +47,7 @@ h2{
     margin-right: auto;
 }
 
-#contentBox{
+#contentBox {
     text-align: center;
     background-color: #f0f8ff8f;
     display: block;
