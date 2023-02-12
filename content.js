@@ -9,10 +9,10 @@ function generateUsername() {
     const noun = capitalizeFirstLetter(nounWordList[Math.floor(Math.random() * nounWordList.length)],)
 
     if (noun === "Cherry") {
-        document.body.style.backgroundImage = "url('https://i.pinimg.com/736x/5a/cf/5c/5acf5cf94ba02f8a742fc75d8294937e.jpg')";
+        document.body.style.backgroundImage = "url('/images/Cherry.jpg')";
         document.getElementById("contentBox").style.backgroundColor = "#f0f8ff"
     } else {
-        document.body.style.backgroundImage = "url('https://i.pinimg.com/564x/c9/3b/fa/c93bfaba410d63022a1bbd34483370a9.jpg')";
+        document.body.style.backgroundImage = "url('/images/Flowers.jpg')";
         document.getElementById("contentBox").style.backgroundColor = "#f0f8ff8f"
     }
 
