@@ -4,4 +4,4 @@
 
 ## Username generator
 
-** Not serious, made for laughs
+
