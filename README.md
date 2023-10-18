@@ -2,6 +2,6 @@
 
 ---
 
-## Username generator inspired by the coquette aesthetic 
+## Username generator
 
 ** Not serious, made for laughs
